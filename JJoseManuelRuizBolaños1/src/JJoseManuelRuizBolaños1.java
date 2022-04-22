@@ -2,7 +2,6 @@
 public class JJoseManuelRuizBolaños1 {
 
 	private String nombre;
-	
 	private String apellido;
 
 	public String getNombre() {
