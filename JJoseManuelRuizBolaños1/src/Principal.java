@@ -4,7 +4,7 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Implementacion completa de las clases");
+		System.out.println("Implementación completa de las clases");
 		
 	}
 
