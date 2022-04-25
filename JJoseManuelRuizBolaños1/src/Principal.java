@@ -6,6 +6,11 @@ public class Principal {
 		
 		System.out.println("Buenas tardes grupo");
 		
+		JJoseManuelRuizBolaños1 jmbola = new JJoseManuelRuizBolaños1("Jose Manuel", "Ruiz Bolaños");
+		System.out.println(jmbola.getApellido());	
+		System.out.println(jmbola.getNombre());
+		
+		
 	}
 
 }
