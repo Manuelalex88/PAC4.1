@@ -11,6 +11,8 @@ public class Principal {
 		System.out.println(jmbola.getNombre());
 		
 		
+		
+		
 	}
 
 }
