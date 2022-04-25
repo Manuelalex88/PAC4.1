@@ -11,7 +11,7 @@ public class Principal {
 		System.out.println(jmbola.getNombre());
 		
 		MManuelAlejandroMarquezLopez1 maml = new MManuelAlejandroMarquezLopez1("Manuel Alejandro", "Marquez Lopez");
-		System.out.println(maml.getApellido());	 //Cambio realizado por Jose Manuel ruiz Bolaños
+		System.out.println(maml.getApellido());	 //Cambio realizado por Jose Manuel Ruiz Bolaños
 		System.out.println(maml.getNombre());
 		
 	}
