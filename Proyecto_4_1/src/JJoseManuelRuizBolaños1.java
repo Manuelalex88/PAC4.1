@@ -2,7 +2,7 @@
 public class JJoseManuelRuizBolaños1 {
 
 	private String nombre;
-	
+
 	private String apellido;
 	
 	public JJoseManuelRuizBolaños1(String nombre, String apellido) {
