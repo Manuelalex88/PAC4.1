@@ -10,8 +10,6 @@ public class MManuelAlejandroMarquezLopez1 {
 		this.nombre = nombre;
 		this.apellido = apellido;
 	}
-	
-	
 
 	public String getNombre() {
 		return nombre;
